@@ -1,2 +1,2 @@
-# SignLanguageDetectionUsingML
-SignLanguageDetectionUsingML
+# Sign Language Detection Using DL
+
